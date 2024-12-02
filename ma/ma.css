@@ -1,0 +1,71 @@
+/* ma.css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: skyblue;
+    line-height: 70px;
+    padding-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a, a:hover {
+    text-decoration: none !important;
+}
+
+.header a {
+    color: black; 
+    font-size: 24px; 
+}
+
+.logout {
+    padding-right: 30px;
+}
+
+ul {
+    background-color: #424a5b;
+    width: 16%;
+    height: 100%;
+    position: fixed;
+    padding-top: 5%;
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    color: skyblue;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 16%;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.content h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.content h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
