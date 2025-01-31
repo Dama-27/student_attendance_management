@@ -66,7 +66,7 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 ## 📜 License
 
 This project is licensed under the **Apache License 2.0**.  
-See the [LICENSE](LICENSE) file for more details.
+See the [LICENSE](LICENSE.md) file for more details.
 
 
 ⭐ Star this repository if you found it useful!
